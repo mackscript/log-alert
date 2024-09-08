@@ -1,7 +1,7 @@
 // LogAlert.js
 import { Alert } from 'react-native';
 
-/**
+/** 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
  * Function to show custom alert with background color and text color
  * @param {string} message - The message to be displayed in the alert.
  * @param {string} backgroundColor - The background color for the alert box.
