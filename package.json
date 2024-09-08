@@ -1,0 +1,16 @@
+{
+  "name": "log-alert",
+  "version": "1.0.0",
+  "description": "log-alert React Native is a lightweight React Native utility that allows developers to display custom alerts with a message and background color.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "react": "^18.3.1",
+    "react-native": "^0.75.2"
+  }
+}
+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
